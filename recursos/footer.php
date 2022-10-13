@@ -1,10 +1,10 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2022<a href="https://jdanielcastro.com">JDCR</a>.</strong>
+    <strong>Copyright &copy; <?php echo date("Y")?> - <a href="https://jdanielcastro.com" target="blank">JDCR</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.1
     </div>
-  </footer>
+</footer>
 
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark">
