@@ -280,4 +280,5 @@
 
 <!-- footer -->
 <?php include ('../recursos/footer.php') ?>
+<script src="../dist/js/pages/dashboard.js"></script>
 <!-- fin de footer -->
