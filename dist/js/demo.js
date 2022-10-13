@@ -14,7 +14,7 @@
     if (window.___browserSync___ === undefined && Number(localStorage.getItem('AdminLTE:Demo:MessageShowed')) < Date.now()) {
       localStorage.setItem('AdminLTE:Demo:MessageShowed', (Date.now()) + (15 * 60 * 1000))
       // eslint-disable-next-line no-alert
-      alert('You load AdminLTE\'s "demo.js", \nthis file is only created for testing purposes!')
+      alert('Estas ingresando a "Fineco App V 1.0.1", \nEsta App esta en construcciòn por JDCR!\nMàs Info al correo jdanielcastror@gmail.com')
     }
   }, 1000)
 
